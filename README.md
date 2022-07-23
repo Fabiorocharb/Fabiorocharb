@@ -4,7 +4,6 @@
 - Second period of college ! Segundo período da faculdade.
 - Subject: Databases, Software Engineering, Client Server programming, python programming , web development.
 Máterias: Bancos de dados, Engenharia de software, Programação Cliente Servidor, Programação Python, Desenv Web.
-- I work as a salesman But I study programming ! Eu trabalho como vendedor mas estudo programação.
 - Languages: USA INTERMEDIARY, PT-BR
 
 <div>
