@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hi, I'm Fábio Rocha System analyst and developer in formation
+#### Olá, Eu sou Fábio Rocha Analista e desenvolvedor de sistema em formação.
 
-<!--
-**Fabiorocharb/Fabiorocharb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Second period of college ! Segundo período da faculdade.
+- Subject: Databases, Software Engineering, Client Server programming, python programming , web development.
+Máterias: Bancos de dados, Engenharia de software, Programação Cliente Servidor, Programação Python, Desenv Web.
+- I work as a salesman But I study programming ! Eu trabalho como vendedor mas estudo programação.
+- Languages: USA INTERMEDIARY, PT-BR
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fabiorocharb&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fabiorocharb&layout=compact&theme=tokyonight"/>
+</div>
