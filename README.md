@@ -22,10 +22,10 @@ Máterias: Bancos de dados, Engenharia de software, Programação Cliente Servid
 ### Acquired knowledge: Conhecimento adquirido:
 
 <div>
+<img align="center" alt="Algoritmos" height="30" widh="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/thealgorithms/thealgorithms-original.svg"/>
 <img align="center" alt="HTML" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>               
 <img align="center" alt="javaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>          
 <img align="center" alt="CSS" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
 <img align="center" alt="Git" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-<img align="center" alt="GitHub" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
-                             
+<img align="center" alt="GitHub" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>  
 </div>
