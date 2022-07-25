@@ -1,4 +1,4 @@
-# Hi, I'm Fábio Rocha System analyst and developer in formation
+# Hi, I'm Fábio Rocha SAD in formation
 
 <p align.="left"> <img src="https://komarev.com/ghpvc/?username=Fabiorocharb&color=yellow" alt="Profile views"/></p>
 
