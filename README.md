@@ -1,12 +1,12 @@
-# Hi, I'm Fábio Rocha SAD in formation
+# **Hi, I'm Fábio Rocha SAD in formation**
 
 <p align.="left"> <img src="https://komarev.com/ghpvc/?username=Fabiorocharb&color=yellow" alt="Profile views"/></p>
 
-📒 Second period of college !</br>
+📒 **Second period of college!**</br>
 
-🌐 Languages: USA INTERMEDIARY, PT-BR</br>
+🌐 **Language**: *USA INTERMEDIARY, PT-BR*</br>
 
-🎥 Vídeo editor for fun</br>
+🎥 **Vídeo editor for fun**</br>
 
 
 <div>
