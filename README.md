@@ -13,7 +13,7 @@ Máterias: Bancos de dados, Engenharia de software, Programação Cliente Servid
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fabiorocharb&layout=compact&theme=radical"/>
 </div>
 
-### My connection : Minha conexão :
+### Social network and contact:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/f%C3%A1bio-silva-rocha-7075a2232/)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCAUW6Mdu6zly5NTVgCFDm0w)
@@ -21,7 +21,7 @@ Máterias: Bancos de dados, Engenharia de software, Programação Cliente Servid
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]()
 
 
-### Acquired knowledge: Conhecimento adquirido:
+### knowledge:
 
 <div>
 <img align="center" alt="Algoritmos" height="30" widh="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/thealgorithms/thealgorithms-original.svg"/>
