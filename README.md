@@ -1,5 +1,6 @@
 # Hi, I'm Fábio Rocha System analyst and developer in formation
 #### Olá, Eu sou Fábio Rocha Analista e desenvolvedor de sistema em formação.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Fabiorocharb&color=yellow" alt="Profile views"/></p>
 
 📒 Second period of college ! Segundo período da faculdade.</br>
 🖥️ Subject: Databases, Software Engineering, Client Server programming, python programming , web development.
