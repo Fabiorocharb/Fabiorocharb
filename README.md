@@ -2,9 +2,12 @@
 
 <p align.="left"> <img src="https://komarev.com/ghpvc/?username=Fabiorocharb&color=yellow" alt="Profile views"/></p>
 
-📒 Second period of college !
+📒 Second period of college !</br>
 
 🌐 Languages: USA INTERMEDIARY, PT-BR</br>
+
+🎥 Vídeo editor for fun</br>
+
 
 <div>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fabiorocharb&show_icons=true&theme=radical"/>
