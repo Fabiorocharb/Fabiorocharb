@@ -1,12 +1,12 @@
-# **Hi, I'm Fábio Rocha SAD in formation**
+# **Olá, sou Fábio Rocha**
 
 <p align.="left"> <img src="https://komarev.com/ghpvc/?username=Fabiorocharb&color=yellow" alt="Profile views"/></p>
 
-📒 **Second period of college!**</br>
+🧑🏻‍🎓 **Analista e desenvolvedor de sistemas (3/5)**</br>
 
-🌐 **Language**: *USA INTERMEDIARY, PT-BR*</br>
+📚 **Desenvolvimento web**</br>
 
-🎥 **Vídeo editor for fun**</br>
+🌐 **Idiomas**: *USA INTERMEDIARY, PT-BR*</br>
 
 
 <div>
@@ -14,15 +14,13 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fabiorocharb&layout=compact&theme=radical"/>
 </div>
 
-### Social network and contact:
+### Rede social e contato:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabiorocharb)
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCAUW6Mdu6zly5NTVgCFDm0w)
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Fabiorocharb/Fabiorocharb)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]()
 
 
-### knowledge:
+### Habilidades:
 
 <div>
 <img align="center" alt="Algoritmos" height="30" widh="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/thealgorithms/thealgorithms-original.svg"/>
