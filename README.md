@@ -2,7 +2,7 @@
 
 <p align.="left"> <img src="https://komarev.com/ghpvc/?username=Fabiorocharb&color=yellow" alt="Profile views"/></p>
 
-🧑🏻‍🎓 **Analista e desenvolvedor de sistemas (4/5)**</br>
+🧑🏻‍🎓 **Analista e desenvolvedor de sistemas (5/5)**</br>
 
 📚 **Desenvolvimento web**</br>
 
